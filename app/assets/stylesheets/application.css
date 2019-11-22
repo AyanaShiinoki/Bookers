@@ -22,6 +22,7 @@
 
 h1{
 	font-size: 30px;
+	padding-left: 20px;
 }
 
 h2{
@@ -62,10 +63,10 @@ label{
 }
 
 
-
-.book{
-	padding-left: 20px;
+.update-book{
+	padding-bottom: 15px;
 }
+
 
 .show{
 	padding:10px 0 0 20px;
