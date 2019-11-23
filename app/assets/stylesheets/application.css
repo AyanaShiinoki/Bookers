@@ -69,7 +69,11 @@ label{
 
 
 .show{
-	padding:10px 0 0 20px;
+	padding:20px 0 0 20px;
+}
+
+.show-content{
+	padding:15px 0;
 }
 
 .show p{
@@ -81,3 +85,16 @@ label{
 	padding:5px;
 }
 
+.flash{
+	padding-left: 40px;
+	color:green;
+	font-size:12px;
+}
+
+.index{
+	padding-top:20px;
+}
+
+.edit{
+	padding-top:20px;
+}
